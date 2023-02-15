@@ -1,6 +1,6 @@
 # wrap-terminal-themes
 
-Recommend a few themes, based on the cursor is not uncomfortable to see  
+Recommend a few themes, based on the cursor is not uncomfortable to see when using vim/neovim.    
 https://github.com/warpdotdev/themes
 
 Seashells  
