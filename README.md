@@ -3,10 +3,10 @@
 Recommend a few themes, based on the cursor is not uncomfortable to see when using vim/neovim.    
 https://github.com/warpdotdev/themes
 
+Night Owl [ in use 🤗]  
 Seashells  
 Remedy Dark  
 Pencil Dark  
-Night Owl  
 Low Contrast  
 High Contrast  
 Hyper  
@@ -44,7 +44,7 @@ Base16 Equilibrium Gray Dark
 Base16 Embers  
 Base16 Darkviolet  
 Base16 Darktooth  
-Base16 Darkmoss [ in use 🤗]  
+Base16 Darkmoss   
 Base16 Codeschool  
 Base16 Brogrammer  
 Base16 Brewer  
